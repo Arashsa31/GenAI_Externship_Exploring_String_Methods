@@ -1,1 +1,1 @@
-This assignment involves working with Python string methods and slicing. The tasks include extracting parts of a string, manipulating strings using methods like strip(), capitalize(), replace(), and upper(), and checking for palindromes. The goal is to enhance understanding of string operations by creating, modifying, and analyzing strings.
+This assignment involves working with Python string methods and slicing. The tasks include extracting parts of a string, manipulating strings using methods like strip(), capitalize(), replace(), and upper(), and checking for palindromes. 
